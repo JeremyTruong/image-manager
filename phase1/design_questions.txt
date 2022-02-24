@@ -1,0 +1,26 @@
+# Phase 1 Design Questions
+
+Which part(s) of the program are responsible for reading the contents of the
+starting directory?
+
+What happens when a new tag is created?
+
+Which class is keeping track of the association between tags and files?
+
+Where does execution start?
+
+How does a user upload a new image?
+
+Do we need an ImageManager class to manage images?
+
+Where are images or directories stored?
+
+What configuration files do we need to create when a user first creates a program?
+
+How can we ensure our design can later include other file types?
+
+How will we manage and store the data?
+
+How do we ensure when a user closes and opens the programs, nothing has altered?
+
+Which classes should collaborate with each other? Why or why not?

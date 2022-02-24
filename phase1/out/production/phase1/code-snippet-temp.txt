@@ -1,0 +1,6 @@
+    String fileName = "c:\\temp\\test.bmp";
+    String[] commands = { "cmd.exe", "/c", "start", "\"DummyTitle\"",
+        "\"" + fileName + "\"" };
+    Process p = Runtime.getRuntime().exec(commands);
+    p.waitFor();// w  w w  .ja  v  a2s . c o m
+    System.out.println("Done.");

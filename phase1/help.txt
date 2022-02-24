@@ -1,0 +1,22 @@
+
+###### Running the Program ######
+- To run the program, ensure you are in the group_0469 directory in your command line program. Once you 'cd' into this directory, copy paste the following command:
+
+    cd phase2 && cd src && javac -cp .:lib/* */*.java && java -cp .:lib/* front_end.Main
+
+
+- Otherwise, if you wish to the run program from an IDE such as IntelliJ, please open the project with
+the group0429/phase/src folder and run the Main method in src/front_end/Main.java
+
+
+###### Using the Program ######
+1. Click the "enter" button
+2. Click "Choose Directory" and selected your desired directory and a list of image and subdirectories in that directory will appear
+3. Right click an image to either move the image to another directory or edit the image tags (a menu will pop up for the two options)
+4a) Moving the image: select a directory that you wish to move the image to
+4b) Editing the tags of images:
+- Add a new tag to the image by typing into the text field, delete existing tags by right clicking on the list of "Image Tags"; 
+- Add tags from available tags, or delete tags from the list of available tags by right-clicking on the selected tag
+- To go back to an older set of tags, click "Tag History", select the revision you would like, the click "Revert to Tags"
+
+**NOTE: Upon making the changes you want (any of the 3 points above), click "save" to ensure the changes are made, otherwise, there will be no changes.

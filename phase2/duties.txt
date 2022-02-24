@@ -1,0 +1,20 @@
+Mit Patel
+- Implemented feature to manage tags separate from adding/ removing tags on pictures
+- Implemented new feature allowing users to email images 
+- Implemented loading in all tags on images into the pool of tags upon selecting a directory
+
+Maria Nor-Arevyan
+- Wrote JavaDoc for PictureScene and EditingScene
+- Implemented the “Add Text” feature in EditingScene
+- Re-organized packages to be more in line with MVC
+- Removed need for “Save” button in PictureScene so that the file is renamed automatically as user manipulates tag.
+
+Jeremy Truong
+- Added 'paint' feature to allow users to draw new pictures
+- Adjusted draw feature into EditingScene to allow users to draw on existing pictures
+- Created and updated code design with UML and style formatter
+
+Rae Wai Hung Tang
+- Implemented the button to open a picture's directory
+- Wrote Unit tests
+- Wrote JavaDoc for controller, model, and view classes expect PictureScene, EditingScene, Main

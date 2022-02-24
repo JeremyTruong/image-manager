@@ -1,0 +1,8 @@
+###### Running the Program ######
+- To run the program, ensure you are in the group_0469 directory in your command line program. Once you 'cd' into this directory, copy paste the following command:
+
+    cd phase2 && cd src && javac -cp .:lib/* */*.java && java -cp .:lib/* view.Main
+
+
+- Otherwise, if you wish to the run program from an IDE such as IntelliJ, please open the project with
+the group0429/phase2/src folder and run the Main method in src/front_end/Main.java

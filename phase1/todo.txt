@@ -1,0 +1,38 @@
+# Phase 1 TODO List Nov 3th - Nov 17th
+
+1) Have a meeting to plan out our software design
+Wednesday, Nov 3rd: All
+
+2) Make a UML design for an overall understanding of our program
+Saturday, Nov 4th
+
+3) Distribute the various components of the planned program
+Friday, Nov 5th: All
+
+4) Figure out how to store the data
+Sunday, Nov 5th: Mit
+
+5) Create the initial classes
+Monday, Nov 6th: All
+
+a) Create Image and ImageManager classes
+Rae
+
+6) Learn JavaFX
+Tuesday, Nov 7th: All
+
+7) Have an initial draft of the classes
+Thursday, Nov 9th: All
+
+8) Have methods created
+Saturday, Nov 11th: All
+
+9) Have the GUI created
+Sunday, Nov 12th: Mit. Maria
+
+10) Have the MVP of the program ready
+Tuesday, Nov  14th: All
+
+11) Testing Program
+Wednesday, Nov 15th: Rae, Jeremy
+

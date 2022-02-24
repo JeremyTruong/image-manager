@@ -1,0 +1,27 @@
+﻿Mit Patel
+- Implemented ChooseDirectoryScene front-end and back-end (choosing directory, viewing image files, moving files)
+- Implemented the logging feature (front-end and back-end)
+- Implemented moving and renaming file features
+- Supported back-end methods for PictureScene
+
+Rae Wai Hung Tang
+- Implemented Picture class
+- Implemented the front_end NamingHistoryScene to show the Picture’s previous tags and connected it to the back_end RevisionsManager 
+- Implemented the Tags class
+- Implemented the TagManager class to keep a list of all tags created
+
+Maria Nor-Arevyan
+- Implemented majority of PictureScene. Implemented handlers, observable lists, an alert,
+ability to open in OS and view an image in OS in PictureScene etc.
+- Suggested we create a Tags class to increase extendability of design
+- Helped NamingHistoryScene interact with PictureScene(e.g., suggested we make certain methods static
+and make a getters and setters for some of the fields in PictureScene)
+
+Jeremy Truong
+- Created RevisionManager and implemented read and write methods of changes to file
+- Implemented recursive creation of Directory and Picture instances on program startup
+- Fixed Windows specific reading and writing errors in input/output methods
+- Created and updated design with UML with program changes
+
+
+
